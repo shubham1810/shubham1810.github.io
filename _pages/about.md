@@ -23,6 +23,7 @@ I finished my undergraduate from __Delhi Technological University (Formerly DCE)
 
 I love to explore different problems, especially in computer vision, and experiment with different domains frequently. Sometimes, it ends up in something useful, other times it's a good learning experience. I try to share my random thoughts on [my blog](/blog).
 
+
 <!-- When I'm not doing academic stuff, I may be spotted in a peaceful corner indulging in some of my hobbies (sketching, gaming, reading, playing my guitar/ukulele, or just taking a nap!). -->
 
 Have a look at my [__CV__](/assets/pdf/cv.pdf) for more details!
